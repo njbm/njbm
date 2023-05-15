@@ -1,4 +1,4 @@
-![](https://github.com/njbm/njbm/blob/main/bg1.jpg)
+<!-- ![](https://github.com/njbm/njbm/blob/main/bg1.jpg) -->
 <h1 align="center">Hi 👋, I'm Jaber Masud</h1>
 <h3 align="left">A passionate Laravel developer from Dhaka,Bangladesh.</h3>
 
