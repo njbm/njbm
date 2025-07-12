@@ -88,6 +88,8 @@
 
 ### 📈 GitHub Stats
 
+[![Old GitHub ID Disabled](https://img.shields.io/badge/Old_GitHub_ID-Disabled-red)]()
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=njbm&theme=vue-light" width="100%" />
 </div>
