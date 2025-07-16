@@ -88,6 +88,9 @@
 
 ### 📈 GitHub Stats
 
+![Profile views](https://komarev.com/ghpvc/?username=njbm&label=Profile%20views&color=0e75b6&style=flat)
+
+
 [![Old GitHub ID Disabled](https://img.shields.io/badge/Old_GitHub_ID-Disabled-red)]()
 
 <div align="center">
