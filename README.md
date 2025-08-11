@@ -71,7 +71,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,html,css,bootstrap,mysql,nodejs,react,git,linux,photoshop,illustrator,cypress,flutter" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,html,css,bootstrap,mysql,nodejs,react,vue,flutter,git,linux,photoshop,illustrator" />
 </p>
 
 ---
