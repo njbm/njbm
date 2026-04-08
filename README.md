@@ -22,7 +22,7 @@
 <table style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; line-height: 1.6; font-size: 14px;">
   <tr>
     <td>🎓</td>
-    <td>I have completed my <strong>BSc in Computer Science and Engineering</strong></td>
+    <td><strong>BSc in Computer Science and Engineering</strong></td>
   </tr>
   <tr>
     <td>✨</td>
