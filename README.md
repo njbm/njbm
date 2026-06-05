@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>📧</td>
-    <td>Reach me at <a href="mailto:njb99m@gmail.com">njb99m@gmail.com</a></td>
+    <td>Reach me at <a href="mailto:jabermasud.dev@gmail.com">jabermasud.dev@gmail.com</a></td>
   </tr>
 </table>
 
